@@ -1,12 +1,12 @@
-name: KillBearBoyshk
-main: KillBearBoys\KillBearBoys
+name: KillBearBoys
+main: KillBearBoys\Main
 version: 3.0.0
 api: [3.0.0-ALPHA10, 3.0.0-ALPHA11]
-author: Hmy2001,haniokasai
+author: [Hmy2001, haniokasai, fujiwaraizuho]
 website: 
 commands:
  co:
-  description: Enable/Disable
+  description: Enable / Disable
   usage: "/co"
   permission: KillBearBoys.command
 permissions:

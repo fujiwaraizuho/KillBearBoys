@@ -1,7 +1,0 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/PMMP-JPN/KillBearBoys
-branches:
-- master
-projects:
-  KillBearBoys:
-    path: ""
-...
